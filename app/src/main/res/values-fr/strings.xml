@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToggleEnFr</string>
+    <string name="current">Locale Actuel</string>
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="info">"Changer la langue de l'appareil (locale) "</string>
+</resources>
