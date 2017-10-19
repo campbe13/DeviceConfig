@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">ToggleEnFr</string>
     <string name="current">Current Locale</string>
+    <string name="apivers">API Version:</string>
     <string name="info">Change the device language (locale)</string>
     <string name="english">English</string>
+    <string name="appsettings">App Settings</string>
     <string name="french">French</string>
     <string name="other">other</string>
+    <string name="brand">Brand:</string>
+    <string name="device">Device:</string>
 
 </resources>
